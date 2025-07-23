@@ -14,7 +14,6 @@ pkg install python git -y
 git clone https://github.com/CyberYodhaX/SQLi-Scanner-Termux
 cd SQLi-Scanner-Termux
 python scanner.py
-
-               🔐 Disclaimer     
+## 🛑 Disclaimer    
 
 This tool is for educational purposes only. Do not use on websites without permission!
